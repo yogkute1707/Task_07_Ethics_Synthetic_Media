@@ -37,6 +37,3 @@ I chose it for five reasons:
 - **A craft flaw became a moral rule.** My Task 6 evaluation noted the flat emotional register as a quality problem. Writing the "redundancy notice" scenario turned it into the policy's clearest prohibition: no synthetic delivery of consequential news.
 - **Consent was harder than deception.** The benign scenario (cloning a departed colleague's voice to update old training) taught me more about consent than the malicious one.
 
-## Limits of this work
-
-I did not research documented incidents, per the assignment. Legal and platform points are given in general terms, and I have not verified current legal text. I did not run a provenance or re-encoding test in Task 6, and Phase A says so directly rather than reporting a result I do not have.
